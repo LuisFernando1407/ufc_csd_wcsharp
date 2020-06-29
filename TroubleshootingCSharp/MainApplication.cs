@@ -4,7 +4,7 @@ using TroubleshootingCSharp.Problems._03;
 using TroubleshootingCSharp.Problems._03.Model;
 
 namespace TroubleshootingCSharp {
-    internal class MainApplication {
+    internal static class MainApplication {
         public static void Main(string[] args) {
             /* Problem 01 = Bubble Sort */      
             System.Console.WriteLine("Problem 01 = Bubble Sort");
