@@ -1,6 +1,5 @@
 namespace TroubleshootingCSharp.Problems._03.Model {
-    public class Matrix
-    {
+    public class Matrix {
         private Matrix(int lineA, int columnA, int lineB, int columnB) {
             this.LineA = lineA;
             this.ColumnA = columnA;

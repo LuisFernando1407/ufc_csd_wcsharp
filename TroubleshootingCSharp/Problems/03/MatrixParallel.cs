@@ -3,6 +3,9 @@ using System.Threading;
 using TroubleshootingCSharp.Problems._03.Model;
 
 namespace TroubleshootingCSharp.Problems._03 {
+    /*
+        Parallel Matrix Multiplication
+    */
     public class MatrixParallel {
         private readonly Matrix _matrixSettings;
         private readonly Thread[,] _threads;
