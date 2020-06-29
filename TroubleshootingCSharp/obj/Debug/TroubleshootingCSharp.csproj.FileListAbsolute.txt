@@ -1,0 +1,6 @@
+/Users/luisfernando_dmo/Projects/ufc/dsc/wav2/TroubleshootingCSharp/TroubleshootingCSharp/bin/Debug/TroubleshootingCSharp.exe
+/Users/luisfernando_dmo/Projects/ufc/dsc/wav2/TroubleshootingCSharp/TroubleshootingCSharp/bin/Debug/TroubleshootingCSharp.pdb
+/Users/luisfernando_dmo/Projects/ufc/dsc/wav2/TroubleshootingCSharp/TroubleshootingCSharp/obj/Debug/TroubleshootingCSharp.csprojAssemblyReference.cache
+/Users/luisfernando_dmo/Projects/ufc/dsc/wav2/TroubleshootingCSharp/TroubleshootingCSharp/obj/Debug/TroubleshootingCSharp.csproj.CoreCompileInputs.cache
+/Users/luisfernando_dmo/Projects/ufc/dsc/wav2/TroubleshootingCSharp/TroubleshootingCSharp/obj/Debug/TroubleshootingCSharp.exe
+/Users/luisfernando_dmo/Projects/ufc/dsc/wav2/TroubleshootingCSharp/TroubleshootingCSharp/obj/Debug/TroubleshootingCSharp.pdb
